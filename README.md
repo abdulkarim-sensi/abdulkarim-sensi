@@ -136,10 +136,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulkarim-sensei.abdulkarim-sensei&left_text=Profile Hits!"  />
-</div>
-
 ###
 
 <div align="left">

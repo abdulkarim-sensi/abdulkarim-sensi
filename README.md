@@ -144,9 +144,6 @@
     <a href="https://discordapp.com/users/9rqr" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
     </a>
-    <a href="tel:+16892674330" target="_blank" style="margin-left: 20px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-    </a>
     <a href="mailto:that@sent.as" target="_blank" style="margin-left: 20px;">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
